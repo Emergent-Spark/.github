@@ -17,7 +17,10 @@ EmergentSpark is a forward-thinking software development organization dedicated 
 
 - Laravel
 - Vue.js
-- React Native
+- React.js
+- MERN Stack
+- MySQL
+- Mongo DB
 - Kotlin
 - Docker
 - AWS
@@ -28,7 +31,7 @@ We're excited to hear about your next project! Feel free to reach out to discuss
 
 - **Website**: [emergentspark.com](https://emergentspark.com)
 - **Email**: contact@emergentspark.com
-- **Phone**: +1 (123) 456-7890
+- **Phone**: +94 70 247 0664
 
 ## Follow Us
 
