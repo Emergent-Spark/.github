@@ -1,10 +1,10 @@
-# Vintorr
+# vintorr
 
-Welcome to Vintorr, where innovation meets excellence in software development.
+Welcome to vintorr, where innovation meets excellence in software development.
 
 ## About Us
 
-Vintorr is a forward-thinking software development organization dedicated to crafting high-quality solutions for modern challenges. With a focus on innovation, efficiency, and reliability, we aim to deliver cutting-edge software that exceeds expectations.
+vintorr is a forward-thinking software development organization dedicated to crafting high-quality solutions for modern challenges. With a focus on innovation, efficiency, and reliability, we aim to deliver cutting-edge software that exceeds expectations.
 
 ## Services
 
