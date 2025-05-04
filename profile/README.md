@@ -29,8 +29,8 @@ vintorr is a forward-thinking software development organization dedicated to cra
 
 We're excited to hear about your next project! Feel free to reach out to discuss how Vintorr can help you achieve your goals.
 
-- **Website**: [Vintorr.com](https://Vintorr.com)
-- **Email**: contact@Vintorr.com
+- **Website**: [Vintorr.com](https://vintorr.com)
+- **Email**: contact@vintorr.com
 - **Phone**: +94 70 247 0664
 
 ## Follow Us
